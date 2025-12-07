@@ -1,0 +1,152 @@
+{
+  "home": {
+    "name": "Muid Hasan Maruf",
+    "title": "Full Stack Developer | Laravel | Web Security Enthusiast",
+    "tagline": "Building secure and scalable web applications.",
+    "bio": "I am a passionate software developer with a strong interest in Web technology. I am currently a CSE student, and I love to learn new technologies and apply them to solve real-world problems. I am actively looking for opportunities to contribute to open-source projects and collaborate with other developers.",
+    "resume_link": "/resume.pdf",
+    "github_link": "https://github.com/MUID-MARUF",
+    "linkedin_link": "https://www.linkedin.com/in/muid-hasan-maruf"
+  },
+  "about": {
+    "background": "I am a final year Computer Science and Engineering student at Green University of Bangladesh. My academic journey has provided me with a strong foundation in software development, algorithms, and data structures. I have a keen interest in web development and cybersecurity, and I am always eager to learn more about these fields.",
+    "skills": {
+      "technical": [
+        "Django",
+        "React",
+        "Laravel",
+        "MySQL",
+        "Git",
+        "Bootstrap",
+        "JavaScript",
+        "Java",
+        "C++",
+        "PHP",
+        "Python",
+        "HTML",
+        "CSS"
+      ],
+      "soft": [
+        "Problem Solving",
+        "Project Management",
+        "Teamwork",
+        "Communication",
+        "Adaptability",
+        "Time Management"
+      ]
+    },
+    "tools": [
+      "IntelliJ IDEA",
+      "VS Code",
+      "Postman",
+      "Jira",
+      "Figma",
+      "Canva"
+    ],
+    "learning": [
+      "Cybersecurity",
+      "Machine Learning",
+      "Web Development"
+    ],
+    "goals": "My goal is to become a proficient full-stack developer with a specialization in cybersecurity. I want to build secure, scalable, and user-friendly web applications that make a positive impact on people's lives. I am also interested in exploring the field of ethical hacking and penetration testing."
+  },
+  "projects": [
+    {
+      "title": "RappidCart – Java Swing + MySQL E-commerce App",
+      "stack": "Java Swing, MySQL",
+      "features": [
+        "User authentication and authorization",
+        "Product catalog with search and filtering",
+        "Shopping cart and checkout functionality",
+        "Order management for administrators"
+      ],
+      "problem": "This project was developed to provide a simple and intuitive desktop application for managing an e-commerce store. It solves the problem of keeping track of products, customers, and orders in a centralized system.",
+      "image": "project.png",
+      "screenshots": [],
+      "github_link": "https://github.com/muid/RappidCart",
+      "live_demo_link": ""
+    },
+    {
+      "title": "Hotel Management System – University Project",
+      "stack": "PHP, Laravel, MySQL",
+      "features": [
+        "Room booking and reservation management",
+        "Guest check-in and check-out",
+        "Billing and invoicing",
+        "Reporting and analytics"
+      ],
+      "problem": "This project was developed as part of a university course to create a web-based application for managing hotel operations. It helps to streamline the process of managing rooms, guests, and payments.",
+      "image": "project.png",
+      "screenshots": [],
+      "github_link": "https://github.com/muid/Hotel-Management-System",
+      "live_demo_link": ""
+    },
+    {
+      "title": "Smart Home Automation IoT Project",
+      "stack": "Python, Raspberry Pi, Arduino",
+      "features": [
+        "Control lights, fans, and other appliances remotely",
+        "Monitor temperature and humidity",
+        "Schedule tasks and set timers",
+        "Receive notifications and alerts"
+      ],
+      "problem": "This project was developed to create a smart home automation system that is affordable and easy to use. It allows users to control their home appliances from anywhere in the world using a web or mobile application.",
+      "image": "project.png",
+      "screenshots": [],
+      "github_link": "https://github.com/muid/Smart-Home-Automation",
+      "live_demo_link": ""
+    },
+    {
+      "title": "AeroLink Network Matrix – Cisco Simulation",
+      "stack": "Cisco Packet Tracer",
+      "features": [
+        "Designed and configured a complex network topology",
+        "Implemented routing protocols such as OSPF and EIGRP",
+        "Configured VLANs, ACLs, and other security features",
+        "Tested and verified network connectivity and performance"
+      ],
+      "problem": "This project was developed to simulate a real-world enterprise network using Cisco Packet Tracer. It helped me to gain hands-on experience in designing, configuring, and troubleshooting complex networks.",
+      "image": "project.png",
+      "screenshots": [],
+      "github_link": "https://github.com/muid/AeroLink-Network-Matrix",
+      "live_demo_link": ""
+    },
+    {
+      "title": "Encrypted File Transfer System – Cybersecurity Project",
+      "stack": "Python, Cryptography",
+      "features": [
+        "Encrypt and decrypt files using AES and RSA algorithms",
+        "Securely transfer files over a network",
+        "User authentication and key management",
+        "Digital signatures for file integrity"
+      ],
+      "problem": "This project was developed to create a secure file transfer system that protects data from unauthorized access. It uses strong encryption algorithms to ensure the confidentiality and integrity of files during transmission.",
+      "image": "project.png",
+      "screenshots": [],
+      "github_link": "https://github.com/muid/Encrypted-File-Transfer-System",
+      "live_demo_link": ""
+    }
+  ],
+  "experience": [
+    {
+      "title": "Noob",
+      "company": "Fathers Hotel",
+      "duration": "Birth - Present",
+      "description": "Waiting for opportunity"
+    }
+  ],
+  "achievements": [
+    {
+      "title": "No Achievements Yet",
+      "date": "2024",
+      "description": "Waiting for Comeback."
+    }
+  ],
+  "contact": {
+    "email": "muidmarufa2@gmail.com.com",
+    "linkedin": "https://www.linkedin.com/in/muid-hasan-maruf",
+    "github": "https://github.com/MUID-MARUF",
+    "website": "https://myportfolio.com",
+    "closing_note": "I enjoy learning new technologies and building real-world solutions. Let’s connect!"
+  }
+}

@@ -1,45 +1,27 @@
-<style>
-
-nav {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    background-color: rgba(255, 255, 255, 0.7);
-    backdrop-filter: blur(10px);
-    position: fixed;
-    top: 0;
-    left: 0;
-    right: 0;
-    z-index: 50;
-    padding: 20px;
-    height: 30px;
-}
-
-.nav-keys a {
-    margin: 7px;
-    text-decoration: none;
-    color: black;
-    font-weight: bold;
-}
-
-
-
-
-
-
-</style>
-
-<nav>
-    <div>
-        <h1>Muid</h1>
+<nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+    <div class="container-fluid">
+        <a class="navbar-brand" href="{{ route('home') }}">My Portfolio</a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+            <ul class="navbar-nav ms-auto mb-2 mb-lg-0">
+                <li class="nav-item">
+                    <a class="nav-link" href="{{ route('home') }}">Home</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="{{ route('about') }}">About</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="{{ route('projects') }}">Projects</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="{{ route('experience') }}">Experience</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="{{ route('contact') }}">Contact</a>
+                </li>
+            </ul>
+        </div>
     </div>
-    
-    <div class="nav-keys">
-        <a class="hover-underline" href="#Home">Home</a>
-        <a class="hover-underline" href="#About">About</a>
-        <a class="hover-underline" href="#Projects">Projects</a>
-        <a class="hover-underline" href="#Contacts">Contacts</a>
-    </div>
-    
-    
 </nav>
